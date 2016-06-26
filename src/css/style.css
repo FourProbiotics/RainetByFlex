@@ -1,0 +1,13 @@
+/* CSS file */
+@namespace s "library://ns.adobe.com/flex/spark";
+@namespace mx "library://ns.adobe.com/flex/mx";
+
+s|WindowedApplication{
+	
+	skinClass:ClassReference("skin.ApplicationSkin");
+	
+}
+global
+{
+	content-background-alpha: 0.0;
+}
